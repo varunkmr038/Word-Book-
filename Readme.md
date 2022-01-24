@@ -15,15 +15,15 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span> <b>HTML</b> </span><br><br>
-        <img height="64px" src="public/img/techstack/html-5.svg">
+        <img height="64px" src="images/techstack/html-5.svg">
       </td>
          <td width="25%" align="center">
         <span> <b>CSS</b> </span><br><br>
-        <img height="30px" src="public/img/techstack/css-3.svg">
+        <img height="30px" src="images/techstack/css-3.svg">
       </td>
       <td width="25%" align="center">
         <span> <b>Javascript</b> </span><br><br>
-        <img height="40px" src="public/img/techstack/javascript.svg">
+        <img height="40px" src="images/techstack/javascript.svg">
       </td>
     </tr>
      </tbody>
